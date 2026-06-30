@@ -98,6 +98,12 @@ First-author IEEE researcher, and it's the work I'm proudest of — I care as mu
 ![Priyanshu's coding activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARYA3HATT&theme=github_dark&utcOffset=5.5)
 
 </div>
+<div align="center">
+
+![Productive Time](profile-summary-card-output/github_dark/0-profile-details.svg)
+![Top Languages](profile-summary-card-output/github_dark/1-repos-per-language.svg)
+
+</div>
 
 ---
 

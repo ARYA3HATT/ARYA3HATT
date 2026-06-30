@@ -27,7 +27,7 @@ First-author IEEE researcher, and it's the work I'm proudest of — I care as mu
 
 ## 🚧 Currently Working On
 
-- 🛰️ **Route Resilience** — occlusion-robust road extraction from satellite imagery (Transformer segmentation) + graph-theoretic criticality analysis to surface infrastructure bottlenecks *(ISRO hackathon)*
+- 🛰️ **Route Resilience** — occlusion-robust road extraction from satellite imagery (Transformer segmentation) + graph-theoretic criticality analysis to surface infrastructure bottlenecks.
 - 🔒 **Agent-poisoning, measured honestly** *(new collaborative research)* — re-running the major published memory- and tool-poisoning attacks on LLM agents in one identical, offline harness on small *local* models, reporting which results hold up versus collapse, and releasing the harness as an open benchmark.
 
 ## 🛠️ Tech Stack
